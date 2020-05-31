@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+We add this
 Created on Thu Apr  2 09:32:36 2020
 author: Kenarapfaik
 url: https://github.com/arapfaik/scraping-glassdoor-selenium
