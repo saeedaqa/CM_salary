@@ -11,4 +11,5 @@ import glassdoor_scraper as gs
 import pandas as pd
 path="/Users/shaki/Documents/my_projects/CM_salary/chromedriver"
 
-df=gs.get_jobs('construction manager', 15, False, path, 15)
+df=gs.get_jobs('construction manager', 2000, False, path, 15)
+df.to_csv('glassdoor_cms.csv', index= False)
