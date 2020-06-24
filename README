@@ -1,1 +1,3 @@
-#cm_salary
+#Project Manager Salary
+
+Explored the current project manager job market in Canada by scaping 1000 job descriptions from glassdoor using python and selenium. 
